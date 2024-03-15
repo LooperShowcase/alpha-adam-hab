@@ -1,0 +1,42 @@
+     h1 {
+         color: rgb(24, 58, 74);
+     }
+
+     #bodyA{
+color: rgb(65, 128, 131)
+     }
+#bodyB{
+    color: rgb(15, 232, 138)
+}
+#header{
+color:rgb(95, 99, 40)
+}
+
+body{
+    color:rgb(150, 160, 157) rgb;
+    background-color: rgb(176, 90, 69);
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
